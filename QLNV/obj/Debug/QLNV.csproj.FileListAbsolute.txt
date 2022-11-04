@@ -1,0 +1,13 @@
+C:\Users\ramma\Desktop\.net\QLNV\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\ramma\Desktop\.net\QLNV\QLNV\bin\Debug\QLNV.exe
+C:\Users\ramma\Desktop\.net\QLNV\QLNV\bin\Debug\QLNV.pdb
+C:\Users\ramma\Desktop\.net\QLNV\QLNV\obj\Debug\QLNV.csproj.AssemblyReference.cache
+C:\Users\ramma\Desktop\.net\QLNV\QLNV\obj\Debug\QLNV.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramma\Desktop\.net\QLNV\QLNV\obj\Debug\QLNV.frmMain.resources
+C:\Users\ramma\Desktop\.net\QLNV\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\ramma\Desktop\.net\QLNV\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+C:\Users\ramma\Desktop\.net\QLNV\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+C:\Users\ramma\Desktop\.net\QLNV\QLNV\obj\Debug\QLNV.exe
+C:\Users\ramma\Desktop\.net\QLNV\QLNV\obj\Debug\QLNV.pdb
+C:\Users\ramma\Desktop\.net\QLNV\QLNV\obj\Debug\QLNV.FormDSSinhVien.resources
+C:\Users\ramma\Desktop\.net\QLNV\QLNV\obj\Debug\QLNV.FormSinhVien.resources
